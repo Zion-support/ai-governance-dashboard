@@ -1,10 +1,21 @@
-# AI Governance Dashboard
+# AI Governance Dashboard — Network Links
 
 Enterprise AI governance, model registries, and compliance monitoring.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor) · [zion-ai-governance](https://github.com/Zion-support/zion-ai-governance) · [ai-policy-generator](https://github.com/Zion-support/ai-policy-generator) · [zion-ai-regs-radar](https://github.com/Zion-support/zion-ai-regs-radar) · [ai-audit-logger](https://github.com/Zion-support/ai-audit-logger)
+## Live
+- App: https://ziontechgroup.com/ai-governance-dashboard/
+- Repo: https://github.com/Zion-support/ai-governance-dashboard
+- Pages: https://zion-support.github.io/ai-governance-dashboard/
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps
+- [ai-compliance-auditor](https://ziontechgroup.com/ai-compliance-auditor/) · [GitHub](https://github.com/Zion-support/ai-compliance-auditor)
+- [dpia-generator](https://ziontechgroup.com/dpia-generator/) · [GitHub](https://github.com/Zion-support/dpia-generator)
+- [audit-readiness-copilot](https://ziontechgroup.com/audit-readiness-copilot/) · [GitHub](https://github.com/Zion-support/audit-readiness-copilot)
+
+## Network
+- Homepage: https://ziontechgroup.com
+- App Showcase: https://ziontechgroup.com/apps/
+- Master catalog: https://github.com/Zion-support/zion-app-network
+- Apps hub: https://github.com/Zion-support/zion-apps-hub
+
+*Zion Tech Group · part of the 703+ app AI network.*
